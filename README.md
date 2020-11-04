@@ -29,7 +29,7 @@
 https://static.webjam.cn/<文件目录+文件名>
 ```
 
-看我蠢萌的菠萝头: `https://static.webjam.cn/images/whoami/boluotou.jpg`
+例如: 看我蠢萌的菠萝头: `https://static.webjam.cn/images/whoami/boluotou.jpg`
 
 ![](https://static.webjam.cn/images/whoami/boluotou.jpg)
 
@@ -69,13 +69,11 @@ https://cdn.jsdelivr.net/gh/<GitHub 用户名>/<仓库名>@<version>/<文件目�
 https://cdn.jsdelivr.net/gh/wencaizhang/static/<文件目录+文件名>
 ```
 
-调皮的吐舌头表情
-
-https://cdn.jsdelivr.net/gh/wencaizhang/static/images/whoami/tiaopi.png
+例如: 调皮的吐舌头表情 `https://cdn.jsdelivr.net/gh/wencaizhang/static/images/whoami/tiaopi.png`
 
 ![](https://static.webjam.cn/images/whoami/tiaopi.png)
 
-这个方案的好处是对用户要求极少，另外 jsDelivr 是大厂，并且是针对 GitHub 提供的 CDN，无需个人域名。
+这个方案的好处是对用户要求极少，只需创建一个公开的 GitHub 仓库，无需域名和备案。
 
 ## 关于容量
 
